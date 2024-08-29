@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "http://icstudio86.com/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "IC_STUDIO"
 theme         = "roxo-hugo"
 summarylength = 25
 
